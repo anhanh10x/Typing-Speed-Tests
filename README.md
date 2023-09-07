@@ -1,5 +1,4 @@
-Introduction to Typing Speed Test Program
-Welcome to the Typing Speed Test Program! This simple yet effective program is designed to help you improve your typing skills by measuring your typing speed and accuracy.
+Introduction to Typing Speed Test Program. Welcome to the Typing Speed Test Program! This simple yet effective program is designed to help you improve your typing skills by measuring your typing speed and accuracy.
 How to Use:
  - Enter the Number of Words: Start by entering the number of words you'd like to type. You can choose to test yourself on a short paragraph or challenge yourself with a longer text.
  - Type the Text: Once you've set the number of words, you'll be presented with a random selection of words from our word bank. Your task is to type the provided text as accurately and quickly as possible.
